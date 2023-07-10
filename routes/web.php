@@ -13,8 +13,6 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-\Log::info('emad');
-
 Route::get('/', function () {
     return view('welcome');
 });
