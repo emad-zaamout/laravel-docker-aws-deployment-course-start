@@ -3,6 +3,8 @@
 
 Auther: Emad Zaamout
 
+Course Video on Youtube
+
 This repository, is used as a starting ground for my Laravel Docker AWS Deployment Course.
 
 Simply clone this repository, start docker then run `make fresh` to run our application.
